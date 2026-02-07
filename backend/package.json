@@ -1,0 +1,15 @@
+{
+  "name": "v1-backend",
+  "version": "1.0.0",
+  "description": "V1 AI backend - free local LLM",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
